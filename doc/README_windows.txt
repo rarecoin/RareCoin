@@ -1,0 +1,28 @@
+XDECoin 2.1.2 BETA
+
+Copyright © 2009-2014 Bitcoin Developers
+Copyright © 2014 Blackcoin Developers
+Copyright © 2014 XDECoin Developers
+Distributed under the MIT/X11 software license, see the accompanying
+file license.txt or http://www.opensource.org/licenses/mit-license.php.
+This product includes software developed by the OpenSSL Project for use in
+the OpenSSL Toolkit (http://www.openssl.org/).  This product includes
+cryptographic software written by Eric Young (eay@cryptsoft.com).
+
+
+Intro
+-----
+XDECoin (XDE) is a hybrid PoW-PoS-based cryptocurrency with a unique difficulty and time multiplier dependent mining reward.
+
+	Specifications:
+
+	- X13 mining algorithm
+	- 60 seconds block target
+	- Difficulty dependent PoW reward
+	- Mining reward decreasing multiplier
+	- Difficulty retargets every block
+	- Variable PoS interest from 1% monthly
+	- 6 conformations for transactions
+	- 60 confirmations for mined/staked blocks
+	- Ports: 11100 (connection) and 11101 (RPC)	
+
