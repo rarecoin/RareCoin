@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About xdecoin</source>
-        <translation>O xdecoin</translation>
+        <source>About XDECoin</source>
+        <translation>O XDECoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;xdecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;xdecoin&lt;/b&gt; verzia</translation>
+        <source>&lt;b&gt;XDECoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;XDECoin&lt;/b&gt; verzia</translation>
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The xdecoin developers</source>
-        <translation>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The xdecoin developers</translation>
+        <source>Copyright © 2009-2014 The Bitcoin Developers
+Copyright © 2012-2014 The NovaCoin Developers
+Copyright © 2014 The XDECoin Developers</source>
+        <translation>Copyright © 2009-2014 The Bitcoin Developers
+Copyright © 2012-2014 The NovaCoin Developers
+Copyright © 2014 The XDECoin Developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your xdecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše xdecoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, takže môžete sledovať, kto Vám platí.</translation>
+        <source>These are your XDECoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše XDECoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, takže môžete sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a xdecoin address</source>
-        <translation>Podpísať správu, že vlastníte xdecoin adresu</translation>
+        <source>Sign a message to prove you own a XDECoin address</source>
+        <translation>Podpísať správu, že vlastníte XDECoin adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified xdecoin address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou xdecoin adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified XDECoin address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou XDECoin adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>xdecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>xdecoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>XDECoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>XDECoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about xdecoin</source>
-        <translation>Zobraziť informácie o xdecoin</translation>
+        <source>Show information about XDECoin</source>
+        <translation>Zobraziť informácie o XDECoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a xdecoin address</source>
-        <translation>Poslať mince na xdecoin adresu</translation>
+        <source>Send coins to a XDECoin address</source>
+        <translation>Poslať mince na XDECoin adresu</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for xdecoin</source>
-        <translation>Upraviť možnosti konfigurácie pre xdecoin</translation>
+        <source>Modify configuration options for XDECoin</source>
+        <translation>Upraviť možnosti konfigurácie pre XDECoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-202"/>
-        <source>xdecoin</source>
-        <translation>xdecoin</translation>
+        <source>XDECoin</source>
+        <translation>XDECoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About xdecoin</source>
-        <translation>&amp;O xdecoin</translation>
+        <source>&amp;About XDECoin</source>
+        <translation>&amp;O XDECoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>xdecoin client</source>
-        <translation>xdecoin client</translation>
+        <source>XDECoin client</source>
+        <translation>XDECoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to xdecoin network</source>
-        <translation><numerusform>%n aktívne spojenie s xdecoin sieťov</numerusform><numerusform>%n aktívnych spojení s xdecoin sieťov</numerusform><numerusform>%n aktívnych spojení s xdecoin sieťov</numerusform></translation>
+        <source>%n active connection(s) to XDECoin network</source>
+        <translation><numerusform>%n aktívne spojenie s XDECoin sieťov</numerusform><numerusform>%n aktívnych spojení s XDECoin sieťov</numerusform><numerusform>%n aktívnych spojení s XDECoin sieťov</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-312"/>
-        <source>About xdecoin card</source>
-        <translation>O xdecoin karte</translation>
+        <source>About XDECoin card</source>
+        <translation>O XDECoin karte</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about xdecoin card</source>
-        <translation>Zobraziť informácie o xdecoin karte</translation>
+        <source>Show information about XDECoin card</source>
+        <translation>Zobraziť informácie o XDECoin karte</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -668,8 +668,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid xdecoin address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! To môže byť spôsobené neplatnou xdecoin adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid XDECoin address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! To môže byť spôsobené neplatnou XDECoin adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -728,8 +728,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. xdecoin can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. xdecoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. XDECoin can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. XDECoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1062,8 +1062,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid xdecoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou xdecoin adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid XDECoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou XDECoin adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1081,8 +1081,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>xdecoin-Qt</source>
-        <translation>xdecoin-Qt</translation>
+        <source>XDECoin-Qt</source>
+        <translation>XDECoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1154,13 +1154,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start xdecoin after logging in to the system.</source>
-        <translation>Automaticky spustiť xdecoin po prihlásení sa do systému.</translation>
+        <source>Automatically start XDECoin after logging in to the system.</source>
+        <translation>Automaticky spustiť XDECoin po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start xdecoin on system login</source>
-        <translation>&amp;Spustiť xdecoin pri prihlásení do systému</translation>
+        <source>&amp;Start XDECoin on system login</source>
+        <translation>&amp;Spustiť XDECoin pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1179,8 +1179,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the xdecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta xdecoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the XDECoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta XDECoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1189,8 +1189,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the xdecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti xdecoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the XDECoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti XDECoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1264,8 +1264,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting xdecoin.</source>
-        <translation>Jazyk používateľského rozhrania je možné tu nastaviť. Toto nastavenie sa prejaví až po reštartovaní xdecoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting XDECoin.</source>
+        <translation>Jazyk používateľského rozhrania je možné tu nastaviť. Toto nastavenie sa prejaví až po reštartovaní XDECoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1279,8 +1279,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show xdecoin addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť xdecoin adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show XDECoin addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť XDECoin adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1326,8 +1326,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting xdecoin.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní xdecoin.</translation>
+        <source>This setting will take effect after restarting XDECoin.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní XDECoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1345,8 +1345,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the xdecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou xdecoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the XDECoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou XDECoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1561,8 +1561,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the xdecoin-Qt help message to get a list with possible xdecoin command-line options.</source>
-        <translation>Zobraziť xdecoin-Qt nápovedu k získaniu zoznamu pre možnosti xdecoin príkazového riadku.</translation>
+        <source>Show the XDECoin-Qt help message to get a list with possible XDECoin command-line options.</source>
+        <translation>Zobraziť XDECoin-Qt nápovedu k získaniu zoznamu pre možnosti XDECoin príkazového riadku.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1581,13 +1581,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="-104"/>
-        <source>xdecoin - Debug window</source>
-        <translation>xdecoin - Ladiace okno</translation>
+        <source>XDECoin - Debug window</source>
+        <translation>XDECoin - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>xdecoin Core</source>
-        <translation>xdecoin Core</translation>
+        <source>XDECoin Core</source>
+        <translation>XDECoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1596,8 +1596,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the xdecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte xdecoin ladenie log súbor z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory protokolu.</translation>
+        <source>Open the XDECoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte XDECoin ladenie log súbor z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory protokolu.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1606,8 +1606,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the xdecoin RPC console.</source>
-        <translation>Vitajte v xdecoin RPC konzole.</translation>
+        <source>Welcome to the XDECoin RPC console.</source>
+        <translation>Vitajte v XDECoin RPC konzole.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1680,8 +1680,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 xde</source>
-        <translation>123.456 xde {0.00 ?}</translation>
+        <source>0.00 XDE</source>
+        <translation>123.456 XDE {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1750,8 +1750,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 xde</source>
-        <translation>123.456 xde</translation>
+        <source>123.456 XDE</source>
+        <translation>123.456 XDE</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1765,8 +1765,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a xdecoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Zadajte xdecoin adresu (napr. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a XDECoin address (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Zadajte XDECoin adresu (napr. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1865,8 +1865,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid xdecoin address</source>
-        <translation>VAROVANIE: Neplatná xdecoin adresa</translation>
+        <source>WARNING: Invalid XDECoin address</source>
+        <translation>VAROVANIE: Neplatná XDECoin adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1909,8 +1909,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Adresa pre poslanie platby (napr. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>The address to send the payment to  (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Adresa pre poslanie platby (napr. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1939,8 +1939,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a xdecoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Zadaj a xdecoin addresu (napr. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a XDECoin address (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Zadaj a XDECoin addresu (napr. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
 </context>
 <context>
@@ -1963,8 +1963,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Adresa na podpísanie správy (napr. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>The address to sign the message with (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Adresa na podpísanie správy (napr. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2000,8 +2000,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this xdecoin address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto xdecoin adresu</translation>
+        <source>Sign the message to prove you own this XDECoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto XDECoin adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2027,13 +2027,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Adresa správy bola podpísaná (napr. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>The address the message was signed with (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Adresa správy bola podpísaná (napr. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified xdecoin address</source>
-        <translation>Overte správu, aby zabezpečilo, že bola podpísaná s danou xdecoin adresu</translation>
+        <source>Verify the message to ensure it was signed with the specified XDECoin address</source>
+        <translation>Overte správu, aby zabezpečilo, že bola podpísaná s danou XDECoin adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2043,8 +2043,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a xdecoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Zadajte xdecoin adresu (napr. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a XDECoin address (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Zadajte XDECoin adresu (napr. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2053,8 +2053,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter xdecoin signature</source>
-        <translation>Zadajte xdecoin podpis</translation>
+        <source>Enter XDECoin signature</source>
+        <translation>Zadajte XDECoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2624,8 +2624,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>xdecoin version</source>
-        <translation>xdecoin verzia</translation>
+        <source>XDECoin version</source>
+        <translation>XDECoin verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2809,8 +2809,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong xdecoin will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny xdecoin nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong XDECoin will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny XDECoin nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3005,7 +3005,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;xdecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;XDECoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
@@ -3016,7 +3016,7 @@ rpcpassword=%s
 Užívateľské meno a heslo nesmú byť rovnaké. 
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;xdecoin Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;XDECoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3125,7 +3125,7 @@ napríklad: alertnotify=echo %%s | mail -s &quot;xdecoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+18"/>
-        <source>WARNING: Invalid checkpoint found! Displayed transactions may not be correct! You may need to upgrade, or notify developers.</source>
+        <source>WARNING: Invalid checkpoint found! Displayed transactions may not be correct! You may need to upgrade, or notify Developers.</source>
         <translation>VAROVANIE: Neplatný checkpoint nájdený! Uvedené transakcie nemusia byť správne! Možno budete musieť upgradovať, alebo oznámiť vývojárov.</translation>
     </message>
     <message>
@@ -3140,13 +3140,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;xdecoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  xdecoin is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. xdecoin už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  XDECoin is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. XDECoin už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>xdecoin</source>
-        <translation>xdecoin</translation>
+        <source>XDECoin</source>
+        <translation>XDECoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3180,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;xdecoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of xdecoin</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu xdecoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of XDECoin</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu XDECoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart xdecoin to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte xdecoin k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart XDECoin to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte XDECoin k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;xdecoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. xdecoin is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. xdecoin je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. XDECoin is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. XDECoin je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>

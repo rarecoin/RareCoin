@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About xdecoin</source>
-        <translation>O xdecoin</translation>
+        <source>About XDECoin</source>
+        <translation>O XDECoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;xdecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;xdecoin&lt;/b&gt; verzija</translation>
+        <source>&lt;b&gt;XDECoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;XDECoin&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The xdecoin developers</source>
+        <source>Copyright © 2009-2014 The Bitcoin Developers
+Copyright © 2012-2014 The NovaCoin Developers
+Copyright © 2014 The XDECoin Developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,8 +63,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your xdecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>To so vaši xdecoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
+        <source>These are your XDECoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>To so vaši XDECoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,8 +78,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a xdecoin address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva xdecoin naslova</translation>
+        <source>Sign a message to prove you own a XDECoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva XDECoin naslova</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified xdecoin address</source>
-        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim xdecoin naslovom</translation>
+        <source>Verify a message to ensure it was signed with a specified XDECoin address</source>
+        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim XDECoin naslovom</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,8 +261,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>xdecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>xdecoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
+        <source>XDECoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>XDECoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -375,8 +375,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about xdecoin</source>
-        <translation>Pokaži informacije o xdecoin</translation>
+        <source>Show information about XDECoin</source>
+        <translation>Pokaži informacije o XDECoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -425,13 +425,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a xdecoin address</source>
-        <translation>Pošlji kovance na xdecoin naslov</translation>
+        <source>Send coins to a XDECoin address</source>
+        <translation>Pošlji kovance na XDECoin naslov</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for xdecoin</source>
-        <translation>Spremeni nastavitve za xdecoin</translation>
+        <source>Modify configuration options for XDECoin</source>
+        <translation>Spremeni nastavitve za XDECoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -470,8 +470,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-202"/>
-        <source>xdecoin</source>
-        <translation>xdecoin</translation>
+        <source>XDECoin</source>
+        <translation>XDECoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +480,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About xdecoin</source>
-        <translation>&amp;O xdecoin</translation>
+        <source>&amp;About XDECoin</source>
+        <translation>&amp;O XDECoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,13 +537,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>xdecoin client</source>
-        <translation>xdecoin program</translation>
+        <source>XDECoin client</source>
+        <translation>XDECoin program</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to xdecoin network</source>
-        <translation><numerusform>%n aktivne povezave na xdecoin omrežje</numerusform><numerusform>%n aktivnih povezav na xdecoin omrežje</numerusform><numerusform>%n aktivnih povezav na xdecoin omrežje</numerusform><numerusform>%n aktivnih povezav na xdecoin omrežje</numerusform></translation>
+        <source>%n active connection(s) to XDECoin network</source>
+        <translation><numerusform>%n aktivne povezave na XDECoin omrežje</numerusform><numerusform>%n aktivnih povezav na XDECoin omrežje</numerusform><numerusform>%n aktivnih povezav na XDECoin omrežje</numerusform><numerusform>%n aktivnih povezav na XDECoin omrežje</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -582,12 +582,12 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-312"/>
-        <source>About xdecoin card</source>
+        <source>About XDECoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about xdecoin card</source>
+        <source>Show information about XDECoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -667,8 +667,8 @@ Naslov: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid xdecoin address or malformed URI parameters.</source>
-        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega xdecoin naslova ali slabih parametrov URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid XDECoin address or malformed URI parameters.</source>
+        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega XDECoin naslova ali slabih parametrov URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -727,8 +727,8 @@ Naslov: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. xdecoin can no longer continue safely and will quit.</source>
-        <translation>Prišlo je do usodne napake. Program xdecoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
+        <source>A fatal error occurred. XDECoin can no longer continue safely and will quit.</source>
+        <translation>Prišlo je do usodne napake. Program XDECoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
     </message>
 </context>
 <context>
@@ -1061,8 +1061,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid xdecoin address.</source>
-        <translation>Vneseni naslov &quot;%1&quot; ni veljaven xdecoin naslov.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid XDECoin address.</source>
+        <translation>Vneseni naslov &quot;%1&quot; ni veljaven XDECoin naslov.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1080,8 +1080,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>xdecoin-Qt</source>
-        <translation>xdecoin-Qt</translation>
+        <source>XDECoin-Qt</source>
+        <translation>XDECoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1153,13 +1153,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start xdecoin after logging in to the system.</source>
-        <translation>Avtomatično zaženi xdecoin ob zagonu sistema.</translation>
+        <source>Automatically start XDECoin after logging in to the system.</source>
+        <translation>Avtomatično zaženi XDECoin ob zagonu sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start xdecoin on system login</source>
-        <translation>&amp;Zaženi xdecoin ob prijavi v sistem</translation>
+        <source>&amp;Start XDECoin on system login</source>
+        <translation>&amp;Zaženi XDECoin ob prijavi v sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1178,8 +1178,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the xdecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avtomatično odpri vrata na routerju za xdecoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
+        <source>Automatically open the XDECoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avtomatično odpri vrata na routerju za XDECoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1188,8 +1188,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the xdecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Poveži se na xdecoin omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
+        <source>Connect to the XDECoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Poveži se na XDECoin omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1263,8 +1263,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting xdecoin.</source>
-        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu xdecoin aplikacije. </translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting XDECoin.</source>
+        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu XDECoin aplikacije. </translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1278,8 +1278,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show xdecoin addresses in the transaction list or not.</source>
-        <translation>Izbira prikaza xdecoin naslovov v seznamu transakcij.</translation>
+        <source>Whether to show XDECoin addresses in the transaction list or not.</source>
+        <translation>Izbira prikaza XDECoin naslovov v seznamu transakcij.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1325,8 +1325,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting xdecoin.</source>
-        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu xdecoin aplikacije</translation>
+        <source>This setting will take effect after restarting XDECoin.</source>
+        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu XDECoin aplikacije</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1344,8 +1344,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the xdecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z xdecoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the XDECoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z XDECoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1560,8 +1560,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the xdecoin-Qt help message to get a list with possible xdecoin command-line options.</source>
-        <translation>Prikaži xdecoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice xdecoin aplikacije</translation>
+        <source>Show the XDECoin-Qt help message to get a list with possible XDECoin command-line options.</source>
+        <translation>Prikaži XDECoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice XDECoin aplikacije</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1580,13 +1580,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>xdecoin - Debug window</source>
-        <translation>xdecoin - okno za odpravljanje napak</translation>
+        <source>XDECoin - Debug window</source>
+        <translation>XDECoin - okno za odpravljanje napak</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>xdecoin Core</source>
-        <translation>xdecoin jedro</translation>
+        <source>XDECoin Core</source>
+        <translation>XDECoin jedro</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1595,8 +1595,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the xdecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Odpri xdecoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
+        <source>Open the XDECoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Odpri XDECoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1605,8 +1605,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the xdecoin RPC console.</source>
-        <translation>Dobrodošli v xdecoin RPC konzoli.</translation>
+        <source>Welcome to the XDECoin RPC console.</source>
+        <translation>Dobrodošli v XDECoin RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1679,8 +1679,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 xde</source>
-        <translation>123.456 xde {0.00 ?}</translation>
+        <source>0.00 XDE</source>
+        <translation>123.456 XDE {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1749,8 +1749,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 xde</source>
-        <translation>123.456 xde</translation>
+        <source>123.456 XDE</source>
+        <translation>123.456 XDE</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1764,8 +1764,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a xdecoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Vnesite xdecoin naslov (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a XDECoin address (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Vnesite XDECoin naslov (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1864,8 +1864,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid xdecoin address</source>
-        <translation>OPOZORILO: Neveljaven xdecoin naslov</translation>
+        <source>WARNING: Invalid XDECoin address</source>
+        <translation>OPOZORILO: Neveljaven XDECoin naslov</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1908,8 +1908,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Naslov kamor želite poslati plačilo (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>The address to send the payment to  (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Naslov kamor želite poslati plačilo (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1938,8 +1938,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a xdecoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Vnesite xdecoin naslov (npr. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a XDECoin address (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Vnesite XDECoin naslov (npr. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
 </context>
 <context>
@@ -1962,8 +1962,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Naslov s katerim želite podpisati sporočilo (npr. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>The address to sign the message with (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Naslov s katerim želite podpisati sporočilo (npr. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1999,8 +1999,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this xdecoin address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva xdecoin naslova</translation>
+        <source>Sign the message to prove you own this XDECoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva XDECoin naslova</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2026,13 +2026,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Naslov s katerim je bilo podpisano sporočilo (npr. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>The address the message was signed with (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Naslov s katerim je bilo podpisano sporočilo (npr. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified xdecoin address</source>
-        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim xdecoin naslovom</translation>
+        <source>Verify the message to ensure it was signed with the specified XDECoin address</source>
+        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim XDECoin naslovom</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2042,8 +2042,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a xdecoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Vnesite xdecoin naslov (npr. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a XDECoin address (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Vnesite XDECoin naslov (npr. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2052,8 +2052,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter xdecoin signature</source>
-        <translation>Vnesite xdecoin podpis</translation>
+        <source>Enter XDECoin signature</source>
+        <translation>Vnesite XDECoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2623,8 +2623,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>xdecoin version</source>
-        <translation>xdecoin različica</translation>
+        <source>XDECoin version</source>
+        <translation>XDECoin različica</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2659,7 +2659,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+1"/>
         <source>Specify pid file (default: xdecoind.pid)</source>
-        <translation>Določi pid datoteko (privzeto: xdecoin.pid)</translation>
+        <translation>Določi pid datoteko (privzeto: XDECoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2808,8 +2808,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong xdecoin will not work properly.</source>
-        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno xdecoin ne bo deloval.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong XDECoin will not work properly.</source>
+        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno XDECoin ne bo deloval.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3004,7 +3004,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;xdecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;XDECoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, nastaviti morate rpcgeslo v konfiguracijski datoteki: 
  %s
@@ -3015,7 +3015,7 @@ rpcpassword=%s
 Uporabniško ime in geslo NE SMETA biti ista. 
 Če datoteka ne obstaja, jo ustvarite z lastniškimi dovoljenji za datoteke. 
 Prav tako je priporočeno, da nastavite alernotify, tkako da vas opozori na probleme;
-na primer: alertnotify=echo %%s | mail -s &quot;xdecoin Alarm&quot; admin@foo.com
+na primer: alertnotify=echo %%s | mail -s &quot;XDECoin Alarm&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3125,7 +3125,7 @@ na primer: alertnotify=echo %%s | mail -s &quot;xdecoin Alarm&quot; admin@foo.co
     </message>
     <message>
         <location line="+18"/>
-        <source>WARNING: Invalid checkpoint found! Displayed transactions may not be correct! You may need to upgrade, or notify developers.</source>
+        <source>WARNING: Invalid checkpoint found! Displayed transactions may not be correct! You may need to upgrade, or notify Developers.</source>
         <translation>OPOZORILO: Najdene so bile neveljavne točke preverjanja! Prikazane transakcije so morda napačne! Poiščite novo različico aplikacije ali pa obvestite razvijalce.</translation>
     </message>
     <message>
@@ -3140,13 +3140,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;xdecoin Alarm&quot; admin@foo.co
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  xdecoin is probably already running.</source>
-        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija xdecoin je verjetno že zagnana.</translation>
+        <source>Cannot obtain a lock on data directory %s.  XDECoin is probably already running.</source>
+        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija XDECoin je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>xdecoin</source>
-        <translation>xdecoin</translation>
+        <source>XDECoin</source>
+        <translation>XDECoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3180,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;xdecoin Alarm&quot; admin@foo.co
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of xdecoin</source>
-        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo xdecoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of XDECoin</source>
+        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo XDECoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart xdecoin to complete</source>
-        <translation>Denarnica mora biti prepisana: ponovno odprite xdecoin za dokončanje</translation>
+        <source>Wallet needed to be rewritten: restart XDECoin to complete</source>
+        <translation>Denarnica mora biti prepisana: ponovno odprite XDECoin za dokončanje</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ na primer: alertnotify=echo %%s | mail -s &quot;xdecoin Alarm&quot; admin@foo.co
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. xdecoin is probably already running.</source>
-        <translation>Navezava v %s  na tem računalniku ni mogoča xdecoin aplikacija je verjetno že zagnana.</translation>
+        <source>Unable to bind to %s on this computer. XDECoin is probably already running.</source>
+        <translation>Navezava v %s  na tem računalniku ni mogoča XDECoin aplikacija je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-97"/>

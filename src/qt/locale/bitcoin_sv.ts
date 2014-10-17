@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About xdecoin</source>
-        <translation>Vad du behöver veta om xdecoin</translation>
+        <source>About XDECoin</source>
+        <translation>Vad du behöver veta om XDECoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;xdecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;xdecoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;XDECoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;XDECoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The xdecoin developers</source>
-        <translation>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The xdecoin developers</translation>
+        <source>Copyright © 2009-2014 The Bitcoin Developers
+Copyright © 2012-2014 The NovaCoin Developers
+Copyright © 2014 The XDECoin Developers</source>
+        <translation>Copyright © 2009-2014 The Bitcoin Developers
+Copyright © 2012-2014 The NovaCoin Developers
+Copyright © 2014 The XDECoin Developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -66,8 +66,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your xdecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dessa är dina xdecoin adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
+        <source>These are your XDECoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dessa är dina XDECoin adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -81,8 +81,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a xdecoin address</source>
-        <translation>Signera ett meddelande för att bevisa att du äger xdecoin adressen</translation>
+        <source>Sign a message to prove you own a XDECoin address</source>
+        <translation>Signera ett meddelande för att bevisa att du äger XDECoin adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -96,8 +96,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified xdecoin address</source>
-        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik xdecoin adress</translation>
+        <source>Verify a message to ensure it was signed with a specified XDECoin address</source>
+        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik XDECoin adress</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -264,8 +264,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-58"/>
-        <source>xdecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>xdecoin plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
+        <source>XDECoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>XDECoin plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -378,8 +378,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about xdecoin</source>
-        <translation>Visa information om xdecoin</translation>
+        <source>Show information about XDECoin</source>
+        <translation>Visa information om XDECoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -428,13 +428,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a xdecoin address</source>
-        <translation>Skicka coins till en xdecoin adress</translation>
+        <source>Send coins to a XDECoin address</source>
+        <translation>Skicka coins till en XDECoin adress</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for xdecoin</source>
-        <translation>Modifiera konfigurations-alternativ för xdecoin</translation>
+        <source>Modify configuration options for XDECoin</source>
+        <translation>Modifiera konfigurations-alternativ för XDECoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -473,8 +473,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-202"/>
-        <source>xdecoin</source>
-        <translation>xdecoin</translation>
+        <source>XDECoin</source>
+        <translation>XDECoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -483,8 +483,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About xdecoin</source>
-        <translation>&amp;Om xdecoin</translation>
+        <source>&amp;About XDECoin</source>
+        <translation>&amp;Om XDECoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -540,13 +540,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>xdecoin client</source>
-        <translation>xdecoin klient</translation>
+        <source>XDECoin client</source>
+        <translation>XDECoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to xdecoin network</source>
-        <translation><numerusform>%n aktiv anslutning till xdecoin nätverket</numerusform><numerusform>%n aktiva anslutning till xdecoin nätverket</numerusform></translation>
+        <source>%n active connection(s) to XDECoin network</source>
+        <translation><numerusform>%n aktiv anslutning till XDECoin nätverket</numerusform><numerusform>%n aktiva anslutning till XDECoin nätverket</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -585,13 +585,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-312"/>
-        <source>About xdecoin card</source>
-        <translation>Om xdecoin kortet</translation>
+        <source>About XDECoin card</source>
+        <translation>Om XDECoin kortet</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about xdecoin card</source>
-        <translation>Via information om xdecoin kortet</translation>
+        <source>Show information about XDECoin card</source>
+        <translation>Via information om XDECoin kortet</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -670,8 +670,8 @@ Adress: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid xdecoin address or malformed URI parameters.</source>
-        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig xdecoin adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid XDECoin address or malformed URI parameters.</source>
+        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig XDECoin adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -730,8 +730,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. xdecoin can no longer continue safely and will quit.</source>
-        <translation>Ett fatalt fel uppstod. xdecoin kan inte fortsätta och stänger programmet.</translation>
+        <source>A fatal error occurred. XDECoin can no longer continue safely and will quit.</source>
+        <translation>Ett fatalt fel uppstod. XDECoin kan inte fortsätta och stänger programmet.</translation>
     </message>
 </context>
 <context>
@@ -1025,7 +1025,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation>Namnet som kopplats till denna xdecoin-adress</translation>
+        <translation>Namnet som kopplats till denna XDECoin-adress</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1064,8 +1064,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid xdecoin address.</source>
-        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig xdecoin adress.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid XDECoin address.</source>
+        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig XDECoin adress.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1083,8 +1083,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>xdecoin-Qt</source>
-        <translation>xdecoin-Qt</translation>
+        <source>XDECoin-Qt</source>
+        <translation>XDECoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1156,13 +1156,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start xdecoin after logging in to the system.</source>
-        <translation>Starta xdecoin automatiskt vid inloggning.</translation>
+        <source>Automatically start XDECoin after logging in to the system.</source>
+        <translation>Starta XDECoin automatiskt vid inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start xdecoin on system login</source>
-        <translation>&amp;Starta xdecoin vid inloggning</translation>
+        <source>&amp;Start XDECoin on system login</source>
+        <translation>&amp;Starta XDECoin vid inloggning</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1181,8 +1181,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the xdecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt xdecoin klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
+        <source>Automatically open the XDECoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt XDECoin klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1191,8 +1191,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the xdecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Anslut till xdecoin nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
+        <source>Connect to the XDECoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Anslut till XDECoin nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1266,8 +1266,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting xdecoin.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av xdecoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting XDECoin.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av XDECoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1281,8 +1281,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show xdecoin addresses in the transaction list or not.</source>
-        <translation>Om xdecoin adresser skall visas i transaktionslistan eller inte.</translation>
+        <source>Whether to show XDECoin addresses in the transaction list or not.</source>
+        <translation>Om XDECoin adresser skall visas i transaktionslistan eller inte.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1328,8 +1328,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting xdecoin.</source>
-        <translation>Inställningen börjar gälla efter omstart av xdecoin.</translation>
+        <source>This setting will take effect after restarting XDECoin.</source>
+        <translation>Inställningen börjar gälla efter omstart av XDECoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1347,8 +1347,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the xdecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med xdecoin nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the XDECoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med XDECoin nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1563,8 +1563,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the xdecoin-Qt help message to get a list with possible xdecoin command-line options.</source>
-        <translation>Visa xdecoin-Qt hjälp meddelandet för att få en lista över möjliga xdecoin kommandoradsalternativ.</translation>
+        <source>Show the XDECoin-Qt help message to get a list with possible XDECoin command-line options.</source>
+        <translation>Visa XDECoin-Qt hjälp meddelandet för att få en lista över möjliga XDECoin kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1583,13 +1583,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>xdecoin - Debug window</source>
-        <translation>xdecoin - Felsökningsfönster</translation>
+        <source>XDECoin - Debug window</source>
+        <translation>XDECoin - Felsökningsfönster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>xdecoin Core</source>
-        <translation>xdecoin Core</translation>
+        <source>XDECoin Core</source>
+        <translation>XDECoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1598,8 +1598,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the xdecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna xdecoin felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
+        <source>Open the XDECoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna XDECoin felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1608,8 +1608,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the xdecoin RPC console.</source>
-        <translation>Välkommen till xdecoin RPC konsoll.</translation>
+        <source>Welcome to the XDECoin RPC console.</source>
+        <translation>Välkommen till XDECoin RPC konsoll.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1682,8 +1682,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 xde</source>
-        <translation>123.456 xde {0.00 ?}</translation>
+        <source>0.00 XDE</source>
+        <translation>123.456 XDE {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1752,8 +1752,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 xde</source>
-        <translation>123.456 xde</translation>
+        <source>123.456 XDE</source>
+        <translation>123.456 XDE</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1767,8 +1767,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a xdecoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Fyll i en xdecoin adress (t.ex. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a XDECoin address (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Fyll i en XDECoin adress (t.ex. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1867,8 +1867,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid xdecoin address</source>
-        <translation>VARNING: Ogiltig xdecoin adress</translation>
+        <source>WARNING: Invalid XDECoin address</source>
+        <translation>VARNING: Ogiltig XDECoin adress</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1911,8 +1911,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Adressen att skicka betalningen till  (t.ex. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>The address to send the payment to  (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Adressen att skicka betalningen till  (t.ex. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1941,8 +1941,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a xdecoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Fyll i en xdecoin adress (t.ex. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a XDECoin address (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Fyll i en XDECoin adress (t.ex. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
 </context>
 <context>
@@ -1965,8 +1965,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Adressen att signera meddelandet med (t.ex. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>The address to sign the message with (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Adressen att signera meddelandet med (t.ex. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2002,8 +2002,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this xdecoin address</source>
-        <translation>Signera meddelandet för att verifiera att du äger denna xdecoin adressen</translation>
+        <source>Sign the message to prove you own this XDECoin address</source>
+        <translation>Signera meddelandet för att verifiera att du äger denna XDECoin adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2029,13 +2029,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Adressen meddelandet var signerad med (t.ex. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>The address the message was signed with (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Adressen meddelandet var signerad med (t.ex. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified xdecoin address</source>
-        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna xdecoin adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified XDECoin address</source>
+        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna XDECoin adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2045,8 +2045,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a xdecoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Fyll i en xdecoin adress (t.ex. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a XDECoin address (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Fyll i en XDECoin adress (t.ex. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2055,8 +2055,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter xdecoin signature</source>
-        <translation>Fyll i xdecoin signatur</translation>
+        <source>Enter XDECoin signature</source>
+        <translation>Fyll i XDECoin signatur</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2626,8 +2626,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>xdecoin version</source>
-        <translation>xdecoin version</translation>
+        <source>XDECoin version</source>
+        <translation>XDECoin version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2811,8 +2811,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong xdecoin will not work properly.</source>
-        <translation>Varning: Kolla att din dators tid och datum är rätt. xdecoin kan inte fungera ordentligt om tiden i datorn är fel.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong XDECoin will not work properly.</source>
+        <translation>Varning: Kolla att din dators tid och datum är rätt. XDECoin kan inte fungera ordentligt om tiden i datorn är fel.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3007,7 +3007,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;xdecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;XDECoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, du måste sätta rpcpassword i konfigurationsfilen:
  %s
@@ -3018,7 +3018,7 @@ rpcpassword=%s
 Användarnamnet och lösenordet FÅR INTE vara samma.
 Om filen inte finns, skapa den med endast ägarrättigheter.
 Det är också rekommenderat att sätta alertnotify så du blir notifierad om problem;
-till exempel: alertnotify=echo %%s | mail -s &quot;xdecoin Varning&quot; admin@foo.com
+till exempel: alertnotify=echo %%s | mail -s &quot;XDECoin Varning&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3128,7 +3128,7 @@ till exempel: alertnotify=echo %%s | mail -s &quot;xdecoin Varning&quot; admin@f
     </message>
     <message>
         <location line="+18"/>
-        <source>WARNING: Invalid checkpoint found! Displayed transactions may not be correct! You may need to upgrade, or notify developers.</source>
+        <source>WARNING: Invalid checkpoint found! Displayed transactions may not be correct! You may need to upgrade, or notify Developers.</source>
         <translation>VARNING: Felaktig kontrollpunkt hittad! Visade transaktioner kan vara felaktiga! Du kan behöva uppgradera eller kontakta utvecklarna.</translation>
     </message>
     <message>
@@ -3143,13 +3143,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;xdecoin Varning&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  xdecoin is probably already running.</source>
-        <translation>Kan inte låsa datan i mappen %s. xdecoin är kanske redan startad.</translation>
+        <source>Cannot obtain a lock on data directory %s.  XDECoin is probably already running.</source>
+        <translation>Kan inte låsa datan i mappen %s. XDECoin är kanske redan startad.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>xdecoin</source>
-        <translation>xdecoin</translation>
+        <source>XDECoin</source>
+        <translation>XDECoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3183,13 +3183,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;xdecoin Varning&quot; admin@f
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of xdecoin</source>
-        <translation>Kunde inte ladda wallet.dat: En nyare version av xdecoin krävs</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of XDECoin</source>
+        <translation>Kunde inte ladda wallet.dat: En nyare version av XDECoin krävs</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart xdecoin to complete</source>
-        <translation>Plånboken måste skrivas om: Starta om xdecoin för att slutföra</translation>
+        <source>Wallet needed to be rewritten: restart XDECoin to complete</source>
+        <translation>Plånboken måste skrivas om: Starta om XDECoin för att slutföra</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3258,8 +3258,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;xdecoin Varning&quot; admin@f
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. xdecoin is probably already running.</source>
-        <translation>Kan inte binda till %s på denna dator. xdecoin är sannolikt redan startad.</translation>
+        <source>Unable to bind to %s on this computer. XDECoin is probably already running.</source>
+        <translation>Kan inte binda till %s på denna dator. XDECoin är sannolikt redan startad.</translation>
     </message>
     <message>
         <location line="-97"/>

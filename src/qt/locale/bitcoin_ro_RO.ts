@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About xdecoin</source>
-        <translation>Despre xdecoin</translation>
+        <source>About XDECoin</source>
+        <translation>Despre XDECoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;xdecoin&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;xdecoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;XDECoin&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;XDECoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The xdecoin developers</source>
-        <translation>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The xdecoin developers</translation>
+        <source>Copyright © 2009-2014 The Bitcoin Developers
+Copyright © 2012-2014 The NovaCoin Developers
+Copyright © 2014 The XDECoin Developers</source>
+        <translation>Copyright © 2009-2014 The Bitcoin Developers
+Copyright © 2012-2014 The NovaCoin Developers
+Copyright © 2014 The XDECoin Developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your xdecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele xdecoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your XDECoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele XDECoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a xdecoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă xdecoin</translation>
+        <source>Sign a message to prove you own a XDECoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă XDECoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified xdecoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă xdecoin</translation>
+        <source>Verify a message to ensure it was signed with a specified XDECoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă XDECoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-58"/>
-        <source>xdecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>xdecoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>XDECoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>XDECoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about xdecoin</source>
-        <translation>Arată informații despre xdecoin</translation>
+        <source>Show information about XDECoin</source>
+        <translation>Arată informații despre XDECoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a xdecoin address</source>
-        <translation>Trimite monede către o adresă xdecoin</translation>
+        <source>Send coins to a XDECoin address</source>
+        <translation>Trimite monede către o adresă XDECoin</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for xdecoin</source>
-        <translation>Modifică opțiuni de configurare pentru xdecoin</translation>
+        <source>Modify configuration options for XDECoin</source>
+        <translation>Modifică opțiuni de configurare pentru XDECoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-202"/>
-        <source>xdecoin</source>
-        <translation>xdecoin</translation>
+        <source>XDECoin</source>
+        <translation>XDECoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About xdecoin</source>
-        <translation>Despre xdecoin</translation>
+        <source>&amp;About XDECoin</source>
+        <translation>Despre XDECoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>xdecoin client</source>
-        <translation>Clientul xdecoin</translation>
+        <source>XDECoin client</source>
+        <translation>Clientul XDECoin</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to xdecoin network</source>
-        <translation><numerusform>%n conexiune activă la reteaua xdecoin</numerusform><numerusform>%n conexiuni active la reteaua xdecoin</numerusform><numerusform>%n conexiuni active la reteaua xdecoin</numerusform></translation>
+        <source>%n active connection(s) to XDECoin network</source>
+        <translation><numerusform>%n conexiune activă la reteaua XDECoin</numerusform><numerusform>%n conexiuni active la reteaua XDECoin</numerusform><numerusform>%n conexiuni active la reteaua XDECoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-312"/>
-        <source>About xdecoin card</source>
-        <translation>Despre cardul xdecoin</translation>
+        <source>About XDECoin card</source>
+        <translation>Despre cardul XDECoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about xdecoin card</source>
-        <translation>Arată informații despre card xdecoin</translation>
+        <source>Show information about XDECoin card</source>
+        <translation>Arată informații despre card XDECoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -669,8 +669,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid xdecoin address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa xdecoin invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid XDECoin address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa XDECoin invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,8 +729,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. xdecoin can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. xdecoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. XDECoin can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. XDECoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1063,8 +1063,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid xdecoin address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă xdecoin validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid XDECoin address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă XDECoin validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1082,8 +1082,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>xdecoin-Qt</source>
-        <translation>xdecoin-Qt</translation>
+        <source>XDECoin-Qt</source>
+        <translation>XDECoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1155,13 +1155,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start xdecoin after logging in to the system.</source>
-        <translation>Pornește xdecoin imdiat după logarea în sistem</translation>
+        <source>Automatically start XDECoin after logging in to the system.</source>
+        <translation>Pornește XDECoin imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start xdecoin on system login</source>
-        <translation>$Pornește xdecoin la logarea în sistem</translation>
+        <source>&amp;Start XDECoin on system login</source>
+        <translation>$Pornește XDECoin la logarea în sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1180,8 +1180,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the xdecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul xdecoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the XDECoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul XDECoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,8 +1190,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the xdecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua xdecoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the XDECoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua XDECoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1265,8 +1265,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting xdecoin.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea xdecoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting XDECoin.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea XDECoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1280,8 +1280,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show xdecoin addresses in the transaction list or not.</source>
-        <translation>Dacă să arate adrese xdecoin din lista de tranzacție sau nu.</translation>
+        <source>Whether to show XDECoin addresses in the transaction list or not.</source>
+        <translation>Dacă să arate adrese XDECoin din lista de tranzacție sau nu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1327,8 +1327,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting xdecoin.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea xdecoin.</translation>
+        <source>This setting will take effect after restarting XDECoin.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea XDECoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1346,8 +1346,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the xdecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua xdecoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the XDECoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua XDECoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1562,8 +1562,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the xdecoin-Qt help message to get a list with possible xdecoin command-line options.</source>
-        <translation>Afișa mesajul de ajutor xdecoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă xdecoin.</translation>
+        <source>Show the XDECoin-Qt help message to get a list with possible XDECoin command-line options.</source>
+        <translation>Afișa mesajul de ajutor XDECoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă XDECoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1582,13 +1582,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>xdecoin - Debug window</source>
-        <translation>xdecoin - fereastră depanare</translation>
+        <source>XDECoin - Debug window</source>
+        <translation>XDECoin - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>xdecoin Core</source>
-        <translation>xdecoin Core</translation>
+        <source>XDECoin Core</source>
+        <translation>XDECoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1597,8 +1597,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the xdecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare xdecoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the XDECoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare XDECoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1607,8 +1607,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the xdecoin RPC console.</source>
-        <translation>Bine ati venit la consola xdecoin RPC.</translation>
+        <source>Welcome to the XDECoin RPC console.</source>
+        <translation>Bine ati venit la consola XDECoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1681,8 +1681,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 xde</source>
-        <translation>123.456 xde {0.00 ?}</translation>
+        <source>0.00 XDE</source>
+        <translation>123.456 XDE {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1751,8 +1751,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 xde</source>
-        <translation>123.456 xde</translation>
+        <source>123.456 XDE</source>
+        <translation>123.456 XDE</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1766,8 +1766,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a xdecoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Introduceți o adresă xdecoin(ex:Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a XDECoin address (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Introduceți o adresă XDECoin(ex:XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1866,8 +1866,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid xdecoin address</source>
-        <translation>Atenție: Adresă xdecoin invalidă</translation>
+        <source>WARNING: Invalid XDECoin address</source>
+        <translation>Atenție: Adresă XDECoin invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1910,8 +1910,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Adresa catre care trimiteti plata(ex. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>The address to send the payment to  (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Adresa catre care trimiteti plata(ex. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1940,8 +1940,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a xdecoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Introduceți o adresă xdecoin(ex:Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a XDECoin address (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Introduceți o adresă XDECoin(ex:XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
 </context>
 <context>
@@ -1964,8 +1964,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Adresa cu care semnati mesajul(ex. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>The address to sign the message with (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Adresa cu care semnati mesajul(ex. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2001,8 +2001,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this xdecoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă xdecoin</translation>
+        <source>Sign the message to prove you own this XDECoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă XDECoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2028,13 +2028,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Adresa cu care a fost semnat mesajul(ex. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>The address the message was signed with (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Adresa cu care a fost semnat mesajul(ex. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified xdecoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă xdecoin</translation>
+        <source>Verify the message to ensure it was signed with the specified XDECoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă XDECoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2044,8 +2044,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a xdecoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Introduceți o adresă xdecoin(ex:Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a XDECoin address (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Introduceți o adresă XDECoin(ex:XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2054,8 +2054,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter xdecoin signature</source>
-        <translation>Introduceti semnatura xdecoin</translation>
+        <source>Enter XDECoin signature</source>
+        <translation>Introduceti semnatura XDECoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2625,8 +2625,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>xdecoin version</source>
-        <translation>Versiune xdecoin</translation>
+        <source>XDECoin version</source>
+        <translation>Versiune XDECoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2661,7 +2661,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+1"/>
         <source>Specify pid file (default: xdecoind.pid)</source>
-        <translation>Speficica fisier pid(implicit: xdecoin.pid)</translation>
+        <translation>Speficica fisier pid(implicit: XDECoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2810,8 +2810,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong xdecoin will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit xdecoin nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong XDECoin will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit XDECoin nu va functiona corect.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3006,7 +3006,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;xdecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;XDECoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, trebuie să configurați o parolă rpc în fișierul de configurare: %s
 Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=xdecoinrpc
@@ -3015,7 +3015,7 @@ rpcpassword=%s
 Username-ul și parola NU TREBUIE să fie aceleași.
 Dacă fișierul nu există, creați-l cu drepturi de citire doar de către deținător.
 Este deasemenea recomandat să setați alertnotify pentru a fi notificat de probleme;
-de exemplu: alertnotify=echo %%s | mail -s &quot;xdecoin Alert&quot; admin@foo.com
+de exemplu: alertnotify=echo %%s | mail -s &quot;XDECoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3125,7 +3125,7 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;xdecoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+18"/>
-        <source>WARNING: Invalid checkpoint found! Displayed transactions may not be correct! You may need to upgrade, or notify developers.</source>
+        <source>WARNING: Invalid checkpoint found! Displayed transactions may not be correct! You may need to upgrade, or notify Developers.</source>
         <translation>ATENTIONARE: checkpoint invalid! Trazatiile afisate pot fi incorecte! Posibil să aveți nevoie să faceți upgrade, sau să  notificati dezvoltatorii.</translation>
     </message>
     <message>
@@ -3140,13 +3140,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;xdecoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  xdecoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  XDECoin is probably already running.</source>
         <translation>Nu se poate obtine un lock pe directorul de date &amp;s. Blackoin probabil ruleaza deja.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>xdecoin</source>
-        <translation>xdecoin</translation>
+        <source>XDECoin</source>
+        <translation>XDECoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3180,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;xdecoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of xdecoin</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de xdecoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of XDECoin</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de XDECoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart xdecoin to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați xdecoin pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart XDECoin to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați XDECoin pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;xdecoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. xdecoin is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil xdecoin ruleaza</translation>
+        <source>Unable to bind to %s on this computer. XDECoin is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil XDECoin ruleaza</translation>
     </message>
     <message>
         <location line="-97"/>

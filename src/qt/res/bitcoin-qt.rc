@@ -22,7 +22,7 @@ BEGIN
             VALUE "FileDescription",    "XDECoin-Qt (OSS GUI client for XDECoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "XDECoin-qt"
-            VALUE "LegalCopyright",     "2014 The XDECoin developers"
+            VALUE "LegalCopyright",     "2014 The XDECoin Developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
             VALUE "OriginalFilename",   "XDECoin-qt.exe"
             VALUE "ProductName",        "XDECoin-Qt"

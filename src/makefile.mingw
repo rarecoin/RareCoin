@@ -3,7 +3,9 @@
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 # x13 Version by mammix2 (mammix2@hotmail.com)
-CXX ?= g++
+# XDECOIN (X13 DoubleEagle Coin) Build by Muroko Blados [github.com/Mur0k0] 
+
+# CXX ?= g++
 
 USE_UPNP:=-
 USE_IPV6:=1
@@ -17,7 +19,7 @@ INCLUDEPATHS= \
  -I"c:/deps/boost_1_55_0" \
  -I"c:/deps/db-4.8.30.NC/build_unix" \
  -I"c:/deps/miniupnpc" \
- -I"c:/deps/openssl-1.0.1g/include"
+ -I"c:/deps/openssl-1.0.1i/include"
 
 LIBPATHS= \
  -L"$(CURDIR)/leveldb" \
@@ -25,7 +27,7 @@ LIBPATHS= \
  -L"c:/deps/boost_1_55_0/stage/lib" \
  -L"c:/deps/db-4.8.30.NC/build_unix" \
  -L"c:/deps/miniupnpc" \
- -L"c:/deps/openssl-1.0.1g"
+ -L"c:/deps/openssl-1.0.1i"
  
 
 LIBS= \
@@ -114,7 +116,7 @@ OBJS= \
     obj/scrypt-x86.o \
     obj/scrypt-x86_64.o 
 
-all: XDECoind.exe
+all: xdecoind.exe
 
 LIBS += $(CURDIR)/leveldb/libleveldb.a $(CURDIR)/leveldb/libmemenv.a
 DEFS += $(addprefix -I,$(CURDIR)/leveldb/include)
@@ -150,11 +152,11 @@ obj/%.o: %.cpp
 	      -e '/^$$/ d' -e 's/$$/ :/' < $(@:%.o=%.d) >> $(@:%.o=%.P); \
 	  rm -f $(@:%.o=%.d)
 
-XDECoind.exe: $(OBJS:obj/%=obj/%)
+xdecoind.exe: $(OBJS:obj/%=obj/%)
 	g++ $(CFLAGS) $(LDFLAGS) -o $@ $(LIBPATHS) $^ $(LIBS)
 
 clean:
-	-rm -f XDECoind
+	-rm -f xdecoind
 	-rm -f obj/*.o
 	-rm -f obj/*.P
 	-rm -f obj-test/*.o

@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About xdecoin</source>
-        <translation>Over xdecoin</translation>
+        <source>About XDECoin</source>
+        <translation>Over XDECoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;xdecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;xdecoin&lt;/b&gt; versie</translation>
+        <source>&lt;b&gt;XDECoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;XDECoin&lt;/b&gt; versie</translation>
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The xdecoin developers</source>
+        <source>Copyright © 2009-2014 The Bitcoin Developers
+Copyright © 2012-2014 The NovaCoin Developers
+Copyright © 2014 The XDECoin Developers</source>
         <translation>Copyright © 2009-2014 De Bitcoin ontwikkelaars
 Copyright © 2012-2014 De NovaCoin ontwikkelaars
-Copyright © 2014 De xdecoin ontwikkelaars</translation>
+Copyright © 2014 De XDECoin ontwikkelaars</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your xdecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dit zijn al jou xdecoin adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
+        <source>These are your XDECoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dit zijn al jou XDECoin adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a xdecoin address</source>
-        <translation>Teken een bericht om te bewijzen dat je een xdecoin adres bezit.</translation>
+        <source>Sign a message to prove you own a XDECoin address</source>
+        <translation>Teken een bericht om te bewijzen dat je een XDECoin adres bezit.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified xdecoin address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek xdecoin adres</translation>
+        <source>Verify a message to ensure it was signed with a specified XDECoin address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek XDECoin adres</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-58"/>
-        <source>xdecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>xdecoin zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
+        <source>XDECoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>XDECoin zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about xdecoin</source>
-        <translation>Toon informatie over xdecoin</translation>
+        <source>Show information about XDECoin</source>
+        <translation>Toon informatie over XDECoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a xdecoin address</source>
-        <translation>Verstuur munten naar een xdecoin adres</translation>
+        <source>Send coins to a XDECoin address</source>
+        <translation>Verstuur munten naar een XDECoin adres</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for xdecoin</source>
-        <translation>Verander configuratie opties voor xdecoin</translation>
+        <source>Modify configuration options for XDECoin</source>
+        <translation>Verander configuratie opties voor XDECoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-202"/>
-        <source>xdecoin</source>
-        <translation>xdecoin</translation>
+        <source>XDECoin</source>
+        <translation>XDECoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About xdecoin</source>
-        <translation>&amp;Over xdecoin</translation>
+        <source>&amp;About XDECoin</source>
+        <translation>&amp;Over XDECoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>xdecoin client</source>
-        <translation>xdecoin client</translation>
+        <source>XDECoin client</source>
+        <translation>XDECoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to xdecoin network</source>
-        <translation><numerusform>%n actieve verbinding naar xdecoin netwerk</numerusform><numerusform>%n actieve verbindingen naar xdecoin netwerk</numerusform></translation>
+        <source>%n active connection(s) to XDECoin network</source>
+        <translation><numerusform>%n actieve verbinding naar XDECoin netwerk</numerusform><numerusform>%n actieve verbindingen naar XDECoin netwerk</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-312"/>
-        <source>About xdecoin card</source>
-        <translation>Over xdecoin card</translation>
+        <source>About XDECoin card</source>
+        <translation>Over XDECoin card</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about xdecoin card</source>
-        <translation>Toon informatie over xdecoin card</translation>
+        <source>Show information about XDECoin card</source>
+        <translation>Toon informatie over XDECoin card</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -669,8 +669,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid xdecoin address or malformed URI parameters.</source>
-        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig xdecoin adres of incorrecte URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid XDECoin address or malformed URI parameters.</source>
+        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig XDECoin adres of incorrecte URI parameters.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,8 +729,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. xdecoin can no longer continue safely and will quit.</source>
-        <translation>Een fatale fout . xdecoin kan niet langer veilig doorgaan en sluit af.</translation>
+        <source>A fatal error occurred. XDECoin can no longer continue safely and will quit.</source>
+        <translation>Een fatale fout . XDECoin kan niet langer veilig doorgaan en sluit af.</translation>
     </message>
 </context>
 <context>
@@ -1063,8 +1063,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid xdecoin address.</source>
-        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig xdecoin adres.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid XDECoin address.</source>
+        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig XDECoin adres.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1082,8 +1082,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>xdecoin-Qt</source>
-        <translation>xdecoin-Qt</translation>
+        <source>XDECoin-Qt</source>
+        <translation>XDECoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1155,13 +1155,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start xdecoin after logging in to the system.</source>
-        <translation>Automatisch starten van xdecoin na inloggen van het systeem.</translation>
+        <source>Automatically start XDECoin after logging in to the system.</source>
+        <translation>Automatisch starten van XDECoin na inloggen van het systeem.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start xdecoin on system login</source>
-        <translation>&amp;Start xdecoin bij systeem aanmelding</translation>
+        <source>&amp;Start XDECoin on system login</source>
+        <translation>&amp;Start XDECoin bij systeem aanmelding</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1180,8 +1180,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the xdecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>De xdecoin client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
+        <source>Automatically open the XDECoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>De XDECoin client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,8 +1190,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the xdecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Verbinding maken met het xdecoin netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
+        <source>Connect to the XDECoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Verbinding maken met het XDECoin netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1265,8 +1265,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting xdecoin.</source>
-        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na xdecoin opnieuw op te starten.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting XDECoin.</source>
+        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na XDECoin opnieuw op te starten.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1280,8 +1280,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show xdecoin addresses in the transaction list or not.</source>
-        <translation>xdecoin adressen in de transactielijst weergeven of niet</translation>
+        <source>Whether to show XDECoin addresses in the transaction list or not.</source>
+        <translation>XDECoin adressen in de transactielijst weergeven of niet</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1327,8 +1327,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting xdecoin.</source>
-        <translation>Deze instelling word toegepast na een restart van xdecoin.</translation>
+        <source>This setting will take effect after restarting XDECoin.</source>
+        <translation>Deze instelling word toegepast na een restart van XDECoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1346,8 +1346,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the xdecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het xdecoin netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the XDECoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het XDECoin netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1562,8 +1562,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the xdecoin-Qt help message to get a list with possible xdecoin command-line options.</source>
-        <translation>Laat het xdecoin-QT help bericht zien om een lijst te krijgen met mogelijke xdecoin command-regel opties.</translation>
+        <source>Show the XDECoin-Qt help message to get a list with possible XDECoin command-line options.</source>
+        <translation>Laat het XDECoin-QT help bericht zien om een lijst te krijgen met mogelijke XDECoin command-regel opties.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1582,13 +1582,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>xdecoin - Debug window</source>
-        <translation>xdecoin - Debugscherm</translation>
+        <source>XDECoin - Debug window</source>
+        <translation>XDECoin - Debugscherm</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>xdecoin Core</source>
-        <translation>xdecoin Kern</translation>
+        <source>XDECoin Core</source>
+        <translation>XDECoin Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1597,8 +1597,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the xdecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het xdecoin debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
+        <source>Open the XDECoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het XDECoin debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1607,8 +1607,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the xdecoin RPC console.</source>
-        <translation>Welkom bij de xdecoin RPC console.</translation>
+        <source>Welcome to the XDECoin RPC console.</source>
+        <translation>Welkom bij de XDECoin RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1681,8 +1681,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 xde</source>
-        <translation>123.456 xde</translation>
+        <source>0.00 XDE</source>
+        <translation>123.456 XDE</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1751,8 +1751,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 xde</source>
-        <translation>123.456 xde</translation>
+        <source>123.456 XDE</source>
+        <translation>123.456 XDE</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1766,8 +1766,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a xdecoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Voeg een xdecoin adres in (bijv. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a XDECoin address (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Voeg een XDECoin adres in (bijv. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1866,8 +1866,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid xdecoin address</source>
-        <translation>WAARSCHUWING: Ongeldig xdecoin adres</translation>
+        <source>WARNING: Invalid XDECoin address</source>
+        <translation>WAARSCHUWING: Ongeldig XDECoin adres</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1910,8 +1910,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Het adres om naar te betalen (bijv. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>The address to send the payment to  (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Het adres om naar te betalen (bijv. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1940,8 +1940,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a xdecoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Voeg een xdecoin adres in (bijv. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a XDECoin address (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Voeg een XDECoin adres in (bijv. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
 </context>
 <context>
@@ -1964,8 +1964,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Het adres om het bericht te ondertekenen (bijv. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX) </translation>
+        <source>The address to sign the message with (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Het adres om het bericht te ondertekenen (bijv. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT) </translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2001,8 +2001,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this xdecoin address</source>
-        <translation>Teken een bericht om te bewijzen dat je een xdecoin adres bezit.</translation>
+        <source>Sign the message to prove you own this XDECoin address</source>
+        <translation>Teken een bericht om te bewijzen dat je een XDECoin adres bezit.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2028,13 +2028,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Het adres van het bericht is ondertekend met (bijv. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>The address the message was signed with (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Het adres van het bericht is ondertekend met (bijv. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified xdecoin address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek xdecoin adres</translation>
+        <source>Verify the message to ensure it was signed with the specified XDECoin address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek XDECoin adres</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2044,8 +2044,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a xdecoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Voeg een xdecoin adres in (bijv. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a XDECoin address (e.g. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</source>
+        <translation>Voeg een XDECoin adres in (bijv. XCtNxrMDU7MN5EsPxuDtUhnSkRSFjd5hpT)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2054,8 +2054,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter xdecoin signature</source>
-        <translation>Voer xdecoin handtekening in</translation>
+        <source>Enter XDECoin signature</source>
+        <translation>Voer XDECoin handtekening in</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2625,8 +2625,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>xdecoin version</source>
-        <translation>xdecoin versie</translation>
+        <source>XDECoin version</source>
+        <translation>XDECoin versie</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2810,8 +2810,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong xdecoin will not work properly.</source>
-        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is xdecoin zal niet goed werken.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong XDECoin will not work properly.</source>
+        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is XDECoin zal niet goed werken.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3006,7 +3006,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;xdecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;XDECoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, u moet een rpcpassword instellen in het configuratiebestand: 
 %s 
@@ -3017,7 +3017,7 @@ rpcpassword = %s
 De gebruikersnaam en het wachtwoord MAG NIET hetzelfde zijn. 
 Als het bestand niet bestaat, maakt u met leesbare-alleen-eigenaar bestandsbeheermachtigingen.  
 Het wordt ook aanbevolen om alertnotify instellen zodat u een melding van problemen;  
-bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;xdecoin Alert&quot; admin@foo.com </translation>
+bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;XDECoin Alert&quot; admin@foo.com </translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3126,8 +3126,8 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;xdecoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+18"/>
-        <source>WARNING: Invalid checkpoint found! Displayed transactions may not be correct! You may need to upgrade, or notify developers.</source>
-        <translation>WAARSCHUWING: Ongeldig controlepunt gevonden! Weergegeven transacties kunnen niet kloppen! Het is mogelijk dat je moet upgraden, of developers moet waarschuwen.</translation>
+        <source>WARNING: Invalid checkpoint found! Displayed transactions may not be correct! You may need to upgrade, or notify Developers.</source>
+        <translation>WAARSCHUWING: Ongeldig controlepunt gevonden! Weergegeven transacties kunnen niet kloppen! Het is mogelijk dat je moet upgraden, of Developers moet waarschuwen.</translation>
     </message>
     <message>
         <location line="-158"/>
@@ -3141,13 +3141,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;xdecoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  xdecoin is probably already running.</source>
-        <translation>Kan een slot op data directory %s niet verkrijgen. xdecoin wordt waarschijnlijk al uitgevoerd.</translation>
+        <source>Cannot obtain a lock on data directory %s.  XDECoin is probably already running.</source>
+        <translation>Kan een slot op data directory %s niet verkrijgen. XDECoin wordt waarschijnlijk al uitgevoerd.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>xdecoin</source>
-        <translation>xdecoin</translation>
+        <source>XDECoin</source>
+        <translation>XDECoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3181,13 +3181,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;xdecoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of xdecoin</source>
-        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van xdecoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of XDECoin</source>
+        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van XDECoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart xdecoin to complete</source>
-        <translation>Portemonnee moet herschreven worden: herstart xdecoin om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart XDECoin to complete</source>
+        <translation>Portemonnee moet herschreven worden: herstart XDECoin om te voltooien</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3256,8 +3256,8 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;xdecoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. xdecoin is probably already running.</source>
-        <translation>Niet mogelijk om %s op deze computer. xdecoin is waarschijnlijk al geopened.</translation>
+        <source>Unable to bind to %s on this computer. XDECoin is probably already running.</source>
+        <translation>Niet mogelijk om %s op deze computer. XDECoin is waarschijnlijk al geopened.</translation>
     </message>
     <message>
         <location line="-97"/>

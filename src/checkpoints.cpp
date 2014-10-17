@@ -1,4 +1,4 @@
-// Copyright (c) 2009-2012 The Bitcoin developers
+// Copyright (c) 2009-2012 The Bitcoin Developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -64,7 +64,7 @@ namespace Checkpoints
         return NULL;
     }
 
-    // xdecoin: synchronized checkpoint (centrally broadcasted)
+    // XDECoin: synchronized checkpoint (centrally broadcasted)
     uint256 hashSyncCheckpoint = 0;
     uint256 hashPendingCheckpoint = 0;
     CSyncCheckpoint checkpointMessage;
@@ -72,7 +72,7 @@ namespace Checkpoints
     uint256 hashInvalidCheckpoint = 0;
     CCriticalSection cs_hashSyncCheckpoint;
 
-    // xdecoin: get last synchronized checkpoint
+    // XDECoin: get last synchronized checkpoint
     CBlockIndex* GetLastSyncCheckpoint()
     {
         LOCK(cs_hashSyncCheckpoint);
@@ -83,7 +83,7 @@ namespace Checkpoints
         return NULL;
     }
 
-    // xdecoin: only descendant of current sync-checkpoint is allowed
+    // XDECoin: only descendant of current sync-checkpoint is allowed
     bool ValidateSyncCheckpoint(uint256 hashCheckpoint)
     {
         if (!mapBlockIndex.count(hashSyncCheckpoint))
@@ -236,7 +236,7 @@ namespace Checkpoints
         return false;
     }
 
-    // xdecoin: reset synchronized checkpoint to last hardened checkpoint
+    // XDECoin: reset synchronized checkpoint to last hardened checkpoint
     bool ResetSyncCheckpoint()
     {
         LOCK(cs_hashSyncCheckpoint);
@@ -347,12 +347,12 @@ namespace Checkpoints
     }
 }
 
-// xdecoin: sync-checkpoint master key
+// XDECoin: sync-checkpoint master key
 const std::string CSyncCheckpoint::strMasterPubKey = "0x042de0947392be9f2d87c56d4f5e278be9cdc307ff6b97b03286b0cf3452d05aeef6a0cc8ffab8d216cec2bc0640b539229cd0e11c5657461119dbcdd01473e607";
 
 std::string CSyncCheckpoint::strMasterPrivKey = "";
 
-// xdecoin: verify signature of sync-checkpoint message
+// XDECoin: verify signature of sync-checkpoint message
 bool CSyncCheckpoint::CheckSignature()
 {
     CKey key;
@@ -367,7 +367,7 @@ bool CSyncCheckpoint::CheckSignature()
     return true;
 }
 
-// xdecoin: process synchronized checkpoint
+// XDECoin: process synchronized checkpoint
 bool CSyncCheckpoint::ProcessSyncCheckpoint(CNode* pfrom)
 {
     if (!CheckSignature())

@@ -1,7 +1,7 @@
 #ifndef QTIPCSERVER_H
 #define QTIPCSERVER_H
 
-// Define xdecoin-Qt message queue name
+// Define XDECoin-Qt message queue name
 #define BITCOINURI_QUEUE_NAME "xdecoinURI"
 
 void ipcScanRelay(int argc, char *argv[]);

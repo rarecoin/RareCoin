@@ -1,6 +1,6 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
-// Copyright (c) 2009-2012 The Bitcoin developers
-// Copyright (c) 2013 The NovaCoin developers
+// Copyright (c) 2009-2012 The Bitcoin Developers
+// Copyright (c) 2013 The NovaCoin Developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -361,8 +361,8 @@ CBlock* CreateNewBlock(CWallet* pwallet, bool fProofOfStake, int64_t* pFees)
 
         if (!fProofOfStake)
         {
-            pblock->vtx[0].vout[0].nValue = GetProofOfWorkReward(nFees) - devCoin;
-            pblock->vtx[0].vout[1].nValue = devCoin;
+            pblock->vtx[0].vout[0].nValue = GetProofOfWorkReward(nFees) - XDESupport;
+            pblock->vtx[0].vout[1].nValue = XDESupport;
         }
 
         if (pFees)
@@ -527,7 +527,7 @@ void StakeMiner(CWallet *pwallet)
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
 
     // Make this thread recognisable as the mining thread
-    RenameThread("xdecoin-miner");
+    RenameThread("XDECoin-miner");
 
     bool fTryToSync = true;
 

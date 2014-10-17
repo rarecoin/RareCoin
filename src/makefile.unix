@@ -3,6 +3,7 @@
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 # x13 Version by mammix2 (mammix2@hotmail.com)
+# XDECOIN (X13 DoubleEagle Coin) Build by Muroko Blados [github.com/Mur0k0] 
 
 USE_UPNP:=0
 USE_IPV6:=1

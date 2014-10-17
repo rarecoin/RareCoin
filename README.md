@@ -1,4 +1,4 @@
-XDECoin |
+XDECoin v3 | Tor Anon Embedded
 =======
 
 This is A Community Takeover of XDoubleEagle.
