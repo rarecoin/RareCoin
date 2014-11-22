@@ -79,7 +79,7 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
     notificator(0),
     rpcConsole(0)
 {
-
+     //Mac OSX GUI Qt Wallet Fixed
     //resize(850, 550);
     setFixedSize(990, 570);
     setWindowTitle(tr("XDECoin") + " - " + tr("Wallet") + " | " + tr("Anon"));
@@ -204,10 +204,12 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
     toolbar2->setMovable( false );
     toolbar2->setObjectName("toolbar2");
     toolbar2->setFixedWidth(25);
+    toolbar2->setIconSize(QSize(28,28));
     toolbar2->addWidget(frameBlocks);
     toolbar2->addWidget(progressBarLabel);
     toolbar2->addWidget(progressBar);
-
+     toolbar2->setStyleSheet("#toolbar2 QToolButton { border:none;padding:0px;margin:0px;height:20px;width:28px;margin-top:36px; }");
+ 
     syncIconMovie = new QMovie(":/movies/xde-spinner", "gif", this);
 
     // Clicking on a transaction on the overview page simply sends you to transaction history page
@@ -398,6 +400,9 @@ void BitcoinGUI::createToolBars()
     toolbar->setOrientation(Qt::Vertical);
     toolbar->setMovable( false );
     toolbar->setToolButtonStyle(Qt::ToolButtonTextBesideIcon);
+#ifdef Q_OS_MAC
+    toolbar->setFixedWidth(200);
+#endif
     toolbar->setIconSize(QSize(50,25));
     toolbar->addAction(overviewAction);
     toolbar->addAction(sendCoinsAction);
