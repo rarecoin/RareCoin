@@ -16,7 +16,7 @@ Tor included - Compiling:
 
 First you need to Update your Linux OS (Ubuntu)
 
-1) udo apt-get update
+1) sudo apt-get update
 
 2) sudo apt-get upgrade
 
@@ -35,5 +35,6 @@ libleveldb.a and libmemenv.a - Please use these commands to copy the Files from 
 2) sudo cp libleveldb.a /XDECoin/src/leveldb
 
 3) sudo cp libmemenv.a /XDECoin/src/leveldb
----------------------------------------------------------------------------
+
+------------------------------------------------------------------------
 
