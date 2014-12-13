@@ -1,15 +1,18 @@
-XDECoin v3 | Tor Anon Embedded
+XDECoin v3 | Source Code
 =======
 
 This is A Community Takeover of XDoubleEagle.
 
 Official Thread: https://bitcointalk.org/index.php?topic=841830
 
-Website: http://xdecoin.com
+Website: http://xdecoin.org
 
 Official Forum: http://doubleeagletalk.com
+----------------------------------------------------------------------
 
-Community: http://xdecoin.org
+MANDATORY UPDATE FIX.
+You will need the Upated Source Link to Get pass Block 10001.
+Update1 Link: https://github.com/XDEDev/XDECoin-UpdateFix
 
 ----------------------------------------------------------------------
 Tor included - Compiling:
@@ -37,4 +40,3 @@ libleveldb.a and libmemenv.a - Please use these commands to copy the Files from 
 3) sudo cp libmemenv.a /XDECoin/src/leveldb
 
 ------------------------------------------------------------------------
-
