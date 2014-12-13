@@ -26,7 +26,7 @@ class CInv;
 class CRequestTracker;
 class CNode;
 
-static const int LAST_POW_BLOCK = 20000; // To help Stabilize the POS Staking before all the Coins get distributed on the Network
+static const int LAST_POW_BLOCK = 20000; // POW 0 Reward Block
 
 static const unsigned int MAX_BLOCK_SIZE = 1000000;
 static const unsigned int MAX_BLOCK_SIZE_GEN = MAX_BLOCK_SIZE/2;
