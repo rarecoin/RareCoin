@@ -7,14 +7,48 @@ Official Thread: https://bitcointalk.org/index.php?topic=841830
 
 Website: http://xdecoin.org
 
-Official Forum: http://doubleeagletalk.com
-----------------------------------------------------------------------
-
-MANDATORY UPDATE FIX.
-You will need the Upated Source Link to Get pass Block 10001.
-Update1 Link: https://github.com/XDEDev/XDECoin-UpdateFix
+Official Forum: http://doubleeagletalk.org
 
 ----------------------------------------------------------------------
+BlockchainFiles
+
+
+XDECoin Blockchain Files to Fix the Stuck issue at 10001 Block
+
+---------------------------------------------
+HOW TO USE THE BLOCKCHAIN FILES?
+You need to have these files before Compiling and Launching the "daemon server"
+
+YOU HAVE 2 CHOICES:
+
+------ CHOICE 1 -----------
+-1st Create the XDE Wallet Directory: .XDECoin
+mkdir ~/.XDECoin
+
+-2nd Git Clone XDE Blockchain Files: https://github.com/XDEDev/BlockchainFiles
+
+-3rd Copy all Contents in the BlockchainFiles directory to .XDECoin
+cp -a /BlockchainFiles/. /.XDECoin/
+
+-4th Git Clone XDECoin Source: https://github.com/XDEDev/XDECoin
+Compile your daemon "xdecoind"
+Launch "xdecoind" it ask for a Conf file.
+Create the xdecoin.conf file and Relaunch XDE Daemon "xdecoind"
+
+------ CHOICE 2 --------------
+QUICK AND EASY:
+
+-1st Git Clone XDE Blockchain Files: https://github.com/XDEDev/BlockchainFiles
+Rename "BlockchainFiles" directory to ".XDECoin"
+ex: mv BlockchainFiles .XDECoin
+
+-2nd Git Clone XDECoin Source: https://github.com/XDEDev/XDECoin
+Compile your daemon "xdecoind"
+Launch "xdecoind" it ask for a Conf file.
+Create the xdecoin.conf file and Relaunch XDE Daemon "xdecoind"
+
+----------------------------------------------------------------------
+
 Tor included - Compiling:
 
 First you need to Update your Linux OS (Ubuntu)
