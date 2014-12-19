@@ -13,7 +13,7 @@ Official Forum: http://doubleeagletalk.org
 BlockchainFiles
 
 
-XDECoin Blockchain Files to Fix the Stuck issue at 10001 Block
+XDECoin Blockchain Files to Fix the Stuck Issues.
 
 ---------------------------------------------
 HOW TO USE THE BLOCKCHAIN FILES?
