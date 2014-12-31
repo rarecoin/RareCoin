@@ -41,13 +41,13 @@ CBigNum bnProofOfWorkFirstBlock(~uint256(0) >> 30);
 
 unsigned int nTargetSpacing = 1 * 60; // 60 seconds
 unsigned int nRetarget = 20;
-unsigned int nStakeMinAge = 24 * 60 * 60; // 24 hours
+unsigned int nStakeMinAge = 12 * 60 * 60; // 24 hours
 unsigned int nStakeMaxAge = -1; // unlimited
 unsigned int nModifierInterval = 10 * 60; // time to elapse before new modifier is computed
 static const int64_t nTargetTimespan_legacy = nTargetSpacing * nRetarget; // every 20 blocks
 static const int64_t nInterval = nTargetTimespan_legacy / nTargetSpacing;
 
-static const int64_t nTargetTimespan = 20 * 60;
+static const int64_t nTargetTimespan = 20 * 60; // 20 minutes
 
 int64_t XDESupport = 0 * COIN;
 int nCoinbaseMaturity = 1;
@@ -997,14 +997,20 @@ int64_t GetProofOfWorkReward(int64_t nFees)
 
 
 
+const int DAILY_BLOCKCOUNT =  1440;
+const int YEARLY_BLOCKCOUNT = 525600;	// 365 * 1440
 // miner's coin stake reward based on coin age spent (coin-days)
 int64_t GetProofOfStakeReward(int64_t nCoinAge, int64_t nFees)
 {
     int64_t nRewardCoinYear;
 
     nRewardCoinYear = MAX_MINT_PROOF_OF_STAKE;
-    
 
+    if(pindexBest->nHeight < YEARLY_BLOCKCOUNT)
+				nRewardCoinYear = 2 * MAX_MINT_PROOF_OF_STAKE; // first year 10%
+			else if(pindexBest->nHeight < (2 * YEARLY_BLOCKCOUNT))
+				nRewardCoinYear = 1 * MAX_MINT_PROOF_OF_STAKE; // second year 5%
+	
     int64_t nSubsidy = nCoinAge * nRewardCoinYear / 365 / COIN;
 
 

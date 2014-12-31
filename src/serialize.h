@@ -18,9 +18,14 @@
 
 #include <boost/type_traits/is_fundamental.hpp>
 #include <boost/tuple/tuple.hpp>
+#include <boost/tuple/tuple_comparison.hpp>
+#include <boost/tuple/tuple_io.hpp>
 
 #include "allocators.h"
 #include "version.h"
+
+typedef long long  int64;
+typedef unsigned long long  uint64;
 
 class CAutoFile;
 class CDataStream;

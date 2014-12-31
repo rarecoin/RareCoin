@@ -1,7 +1,7 @@
 # XDECoin (X13 DoubleEagle Coin) Version
 TEMPLATE = app
 TARGET = XDECoin-qt
-VERSION = 3.0.0.1
+VERSION = 4.0.0.1
 INCLUDEPATH += src src/json src/qt src/tor
 DEFINES += QT_GUI BOOST_THREAD_USE_LIB BOOST_SPIRIT_THREADSAFE
 CONFIG += no_include_pwd
